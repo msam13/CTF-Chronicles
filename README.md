@@ -1,2 +1,2 @@
 # Piko-CTF
-Walkthrough of my interesting CTF problems 
+Walkthrough of interesting CTF problems 
